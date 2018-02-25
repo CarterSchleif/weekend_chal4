@@ -16,3 +16,9 @@ td {
     border: 2px;
     border-style: solid;
 }
+img {
+    margin: 5px;
+}
+button {
+    margin: 5px;
+}
