@@ -18,7 +18,15 @@ td {
 }
 img {
     margin: 5px;
+    border: 2px;
+    border-style: double;
+    border-color: black;
 }
 button {
     margin: 5px;
+    background-color: lightgreen;
+    color: rgb(224, 255, 248);
+    border: 1px;
+    border-style: solid;
+    border-color: black;
 }
